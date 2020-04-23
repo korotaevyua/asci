@@ -14,7 +14,6 @@ image::fin_vs_planar.png[fin, link="fin_vs_planar.png"]
 .Windtrainer workouts
 
 |=========================================================
-№|TSMC 2+>|Intel 2+>|Samsung 2+>|Global Foundries 2+>|
 
 №|TSMC||Intel||Samsung||Global Foundries|
 |Тех. проц. (год)|Название|Тех. проц. (год)|Название|Тех. проц. (год)|Название|Тех. проц. (год)|Название
