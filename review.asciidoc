@@ -11,8 +11,9 @@ xref:figure-fin[pic]
 
 image::fin_vs_planar.png[fin, link="fin_vs_planar.png"]
 
-[format="csv"]
-|===================================================
-
-include::Untitled 2.csv[]
-|===================================================
+[format="csv", options="header"]
+|===
+Writing tools, Awesomeness
+Asciidoctor, Oh yeah!
+MS Word, No!
+|===
