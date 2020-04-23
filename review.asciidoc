@@ -12,4 +12,7 @@ xref:figure-fin[pic]
 image::fin_vs_planar.png[fin, link="fin_vs_planar.png"]
 
 
-include::Untitled 2.csv[]
+|===================================================
+
+include::Untilted 2.csv[]
+|===================================================
