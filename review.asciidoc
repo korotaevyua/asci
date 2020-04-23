@@ -59,8 +59,8 @@ image::ris3.jpg[ris3, width=70%, high=70%]
  
 В таблице <<table-stage1>>, указаны параметры технологий и характерные размеры, полученные при производстве. 
  
-[#table-stage1,width="100%",cols=cols="^2,^2,^2,^2,^2,^2",options="header"]
 .Сравнение характеристик 1-го поколения FinFET технологий
+[#table-stage1,width="100%",cols=cols="^2,^2,^2,^2,^2,^2",options="header"]
 |=======================
 2.+^||Intel|Samsung|TSMC|GlobalFoundries
 2.+^|Название процесса|P1270(CPU)/P1271(SoC) (22нм)|14LPE, 14LPP, 14LPC, 14LPU (14нм)|16FF, 16FF+,16FFC, 12FFC, 12FFN (16нм,16/12нм)|14LLP/12LP (14/12нм)
