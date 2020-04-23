@@ -13,5 +13,5 @@ image::fin_vs_planar.png[fin, link="fin_vs_planar.png"]
 = Table with external data
 [format="csv", options="header"]
 |===
-include::Untitled 2.csv[]
+include::Untitled 2.csv[format="csv", options="header"]
 |===
