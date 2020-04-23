@@ -16,7 +16,7 @@ image::fin_vs_planar.png[fin, link="fin_vs_planar.png"]
  
 [format="csv", options="header"]
 |===
-№,TSMC,,Intel,,Samsung,,Global Foundries
+№,TSMC,Intel,Samsung,Global Foundries
 ,Тех. проц. (год),Название,Тех. проц. (год),Название,Тех. проц. (год),Название,Тех. проц. (год)
 1,"16/12нм (2015, 2017)",,,,,,
 2,10нм (2017),,,,,,
