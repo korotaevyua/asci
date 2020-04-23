@@ -11,7 +11,7 @@ xref:figure-fin[pic]
 
 image::fin_vs_planar.png[fin, link="fin_vs_planar.png"]
 
-
+[format="csv",cols="^1,4*2",options="header"]
 |===================================================
 
 include::Untitled 2.csv[]
