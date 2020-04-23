@@ -10,17 +10,21 @@ xref:figure-fin[pic]
 Для решения описанных проблем были разработаны транзисторы FinFET. В отличие от планарной технологии, канал выполнен в виде тонкой вертикальной кремниевой структуры (плавник, англ. Fin), которая с трех сторон окружена затвором (рис. 1). 
 
 image::fin_vs_planar.png[fin, link="fin_vs_planar.png"]
-= Tables
- 
-== CSV table
- 
-[format="csv", options="header"]
-|===
-№,TSMC,Intel,Samsung,Global Foundries
-,Тех. проц. (год),Название,Тех. проц. (год),Название,Тех. проц. (год),Название,Тех. проц. (год)
-1,"16/12нм (2015, 2017)",,,,,,
-2,10нм (2017),,,,,,
-3,7нм (2018),,,,,,
-4,5нм (2020),,,,,,
 
-|===
+.Windtrainer workouts
+[width="80%",cols="3,^2,^2,10",options="header"]
+|=========================================================
+|Date |Duration 2+>|Avg HR 
+
+|22-Aug-08 |10:24 | 157 |
+Worked out MSHR (max sustainable heart rate) by going hard
+for this interval.
+
+|22-Aug-08 |23:03 | 152 |
+Back-to-back with previous interval.
+
+|24-Aug-08 |40:00 | 145 |
+Moderately hard interspersed with 3x 3min intervals (2min
+hard + 1min really hard taking the HR up to 160).
+
+|=========================================================
