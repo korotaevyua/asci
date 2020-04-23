@@ -10,7 +10,7 @@ xref:figure-fin[pic]
 Для решения описанных проблем были разработаны транзисторы FinFET. В отличие от планарной технологии, канал выполнен в виде тонкой вертикальной кремниевой структуры (плавник, англ. Fin), которая с трех сторон окружена затвором (рис. 1). 
 
 image::fin_vs_planar.png[fin, link="fin_vs_planar.png"]
-
+= Table with external data
 [format="csv", options="header"]
 |===
 include::Untitled 2.csv[]
