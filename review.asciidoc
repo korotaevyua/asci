@@ -12,7 +12,7 @@ xref:figure-fin[pic]
 image::fin_vs_planar.png[fin, link="fin_vs_planar.png"]
 
 .Windtrainer workouts
-[#table,cols="30,70",options="header"]
+[#table,cols="^1,4*2",options="header"]
 |=========================================================
 №|TSMC||Intel||Samsung||Global Foundries|
 |Тех. проц. (год)|Название|Тех. проц. (год)|Название|Тех. проц. (год)|Название|Тех. проц. (год)|Название
